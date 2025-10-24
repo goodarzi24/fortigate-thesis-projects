@@ -4,7 +4,7 @@ terraform {
   required_providers {
     fortiadc = {
       source = "fortinetdev/fortiadc"
-      version = "~> 1.0"
+      version = "1.0.0"
     }
   }
 }
